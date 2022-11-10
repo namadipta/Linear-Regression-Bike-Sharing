@@ -1,7 +1,7 @@
 # Linear-Regression-Bike-Sharing
   The main objective is of this assignment is to understand provided Bike sharing data and idetifiy the factors on which the demand shared bikes depends.
-        1. Which variables are significant in predicting the demand for shared bikes.
-        2. How well those variables describe the bike demands
+    1. Which variables are significant in predicting the demand for shared bikes. 
+    2. How well those variables describe the bike demands
 
 ## Data Analysis and Model building Steps :
   1. Reading and Understanding the Data
